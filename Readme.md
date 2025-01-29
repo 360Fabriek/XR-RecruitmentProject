@@ -5,8 +5,13 @@
 - Max development time: **6 hours**!
 - Focus on getting the core ready before working on other features.
 - Ensure clean, modular, and maintainable code to highlight your coding skills.
-- Create a fork on github and open a pull request so we can easily look through the code.
-
+## Setup
+1. Create a fork of this repository.
+2. Clone the repository.
+3. Go to the directory, and make sure that the LFS content is also cloned / pulled.
+4. Start the project using Unity `6000.0.35f1`
+## Delivering
+1. Go to the project and create a Pull request.
 ## Core Mechanics:
 - **Cue Handling**: Grab and aim the cue using XR controllers or hand gestures.
 - **Ball Striking**: Apply force to the cue to hit the balls.

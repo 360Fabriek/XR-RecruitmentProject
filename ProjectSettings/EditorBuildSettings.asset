@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PoolGame/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bbb6cfd00588cce4b93f7374ed49ac1b, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 145dd035b62dc93459177b47a5a3c80b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2776b626dee4da14a9bbe74653487ea2, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 7e62bb21eda0c704f8a92c3d90410cd2, type: 2}
+  m_UseUCBPForAssetBundles: 0

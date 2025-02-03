@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Wall
   - Ball
+  - WhiteBall
+  - Hole
+  - StripeBall
+  - FullBall
+  - BlackBall
   layers:
   - Default
   - TransparentFX
@@ -13,11 +18,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - CueStick
+  - CueBall
+  - PoolBalls
+  - XR Hands
+  - Pool Table
   - 
   - 
   - 

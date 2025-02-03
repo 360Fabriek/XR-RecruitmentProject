@@ -9,7 +9,6 @@ public class PoolCueHandler : MonoBehaviour
     public CheckBallMovement checkBallMovement;
     [SerializeField] private XRGrabInteractable backGrip; // The part you will have to hold, back of the Pool Cue
     [SerializeField] private Transform middleHandTransform; // The left hand/controller
-    [SerializeField] private float middleHandOffset = 0.5f; // The offset to determine where the middle hand should be placed along the Pool Cue
     [SerializeField] private GameObject whiteBall; // Reference to the white ball
     [SerializeField] private float extraForceMultiplier = 10f; // Adjust multiplier for more force
     [SerializeField] private float maxForce = 1000f; // Maximum force to apply to the white ball

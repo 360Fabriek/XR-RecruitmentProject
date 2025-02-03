@@ -1,9 +1,11 @@
+
+
+#if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System;
-
 [InitializeOnLoad]
 public static class SceneSaveChecker
 {
@@ -56,3 +58,4 @@ public static class SceneSaveChecker
         }
     }
 }
+#endif
